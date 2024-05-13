@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>EditTeacher_DropDown</name>
+   <tag></tag>
+   <elementGuidId>c5589f16-4216-41fc-a1a0-b5e1a45a017e</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>(//a[@id='lnkViewManageUser']/em)[2]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>em</value>
+      <webElementGuid>15db45e0-3cc4-4432-95e8-44cbab8f4cfd</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>fa fa-ellipsis-v fa-lg </value>
+      <webElementGuid>d20ce09e-1e4f-4431-b733-61d35f8f33da</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;office365Div&quot;)/div[1]/div[1]/div[1]/div[@class=&quot;lms-section&quot;]/div[@class=&quot;lms-container lms-margin-bottom-20&quot;]/div[@class=&quot;row lms-margin-top-20&quot;]/div[@class=&quot;col-xs-12 lms-padding-end-0  lms-org-grid-cont col-md-9&quot;]/div[@class=&quot;lms-clear&quot;]/table[@class=&quot;lms-org-table  smart-form table table-bordered table-striped table-hover lms-reports-tbl lms-reports-manage-table lms-user-managment-tbl lms-table-fixed-layout lms-data-table lms-table-popup ng-table&quot;]/tbody[1]/tr[1]/td[@id=&quot;liTrackList_0&quot;]/div[@class=&quot;col-xs-12&quot;]/div[@class=&quot;dropdown btn-group lms-padding-0 lms-float-end&quot;]/a[@id=&quot;lnkViewManageUser&quot;]/em[@class=&quot;fa fa-ellipsis-v fa-lg&quot;]</value>
+      <webElementGuid>c4872345-8dfe-4c67-9194-52507b9dd7f4</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>(//a[@id='lnkViewManageUser']/em)[2]</value>
+      <webElementGuid>0b92235a-0b9e-4414-85db-2047c554213c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//td[10]/div/div/a/em</value>
+      <webElementGuid>e71e15b4-0697-4349-a42d-bfc02f2f07c9</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

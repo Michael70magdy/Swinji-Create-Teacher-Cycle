@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Teacher_Cycle</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>e66b772e-f25f-41d5-9dde-8e32b7a5aa88</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>8cbf371f-07ff-4478-bd9c-42f202f1f4e3</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>8cbf371f-07ff-4478-bd9c-42f202f1f4e3</id>
+      <masked>false</masked>
+      <name>variable</name>
+   </variable>
+</TestCaseEntity>

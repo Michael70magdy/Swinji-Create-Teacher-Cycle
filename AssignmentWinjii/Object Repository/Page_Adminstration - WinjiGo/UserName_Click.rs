@@ -1,0 +1,132 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>UserName_Click</name>
+   <tag></tag>
+   <elementGuidId>e4ffe7ca-43f1-46e8-967e-37e338c422f9</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>span.lms-truncate.lms-middle.lms-max-width-70.lms-md-max-width-60-imp.lms-max-width-100-imp</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='office365Div']/div/div/div/div/div/div[3]/div[2]/div[3]/table/tbody/tr/td[2]/div/div/div/a/span</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>4d0b0ecd-78d8-491b-8676-c390a329579c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>lms-truncate lms-middle lms-max-width-70 lms-md-max-width-60-imp lms-max-width-100-imp</value>
+      <webElementGuid>ca929bfc-8dc8-4389-bf14-59115fdd06a1</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>dir</name>
+      <type>Main</type>
+      <value>auto</value>
+      <webElementGuid>29422f32-8ea6-457f-8889-2fb88f3001dd</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-ng-class</name>
+      <type>Main</type>
+      <value>{'lms-max-width-100-imp':usersGrouped[0].IsActive == true}</value>
+      <webElementGuid>82296202-2aad-4d88-9128-922e19d6fade</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Michael1922 Teacher</value>
+      <webElementGuid>cae50eef-9085-4577-b054-5c6edfff8ae5</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;office365Div&quot;)/div[1]/div[1]/div[1]/div[@class=&quot;lms-section&quot;]/div[@class=&quot;lms-container lms-margin-bottom-20&quot;]/div[@class=&quot;row lms-margin-top-20&quot;]/div[@class=&quot;col-xs-12 lms-padding-end-0  lms-org-grid-cont col-md-9&quot;]/div[@class=&quot;lms-clear&quot;]/table[@class=&quot;lms-org-table  smart-form table table-bordered table-striped table-hover lms-reports-tbl lms-reports-manage-table lms-user-managment-tbl lms-table-fixed-layout lms-data-table lms-table-popup ng-table&quot;]/tbody[1]/tr[1]/td[@class=&quot;table-main-xs&quot;]/div[@class=&quot;col-xs-12 col-md-12 lms-padding-end-0&quot;]/div[@class=&quot;lms-truncate lms-inline-block lms-middle lms-line-normal&quot;]/div[@class=&quot;col-xs-12 lms-padding-0&quot;]/a[1]/span[@class=&quot;lms-truncate lms-middle lms-max-width-70 lms-md-max-width-60-imp lms-max-width-100-imp&quot;]</value>
+      <webElementGuid>264fac40-dd9b-4d2d-a46b-eb83d2a60e22</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='office365Div']/div/div/div/div/div/div[3]/div[2]/div[3]/table/tbody/tr/td[2]/div/div/div/a/span</value>
+      <webElementGuid>7a711c13-72e7-4c0a-8329-d4d4a26cff77</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='search'])[3]/following::span[1]</value>
+      <webElementGuid>225347f4-4259-414d-9013-7f8156f99b6d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Joining Date'])[1]/following::span[2]</value>
+      <webElementGuid>2fa7c9ce-7a83-41a0-b3d4-3202e420718a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Michael1922@gmail.com'])[1]/preceding::span[2]</value>
+      <webElementGuid>c8627466-8722-435f-9e65-f9529456886d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Edit User'])[1]/preceding::span[2]</value>
+      <webElementGuid>81661a19-d5c2-4747-8f84-2ced0abf3823</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Michael1922 Teacher']/parent::*</value>
+      <webElementGuid>661ea8de-4161-4c72-aa37-2eed6c296fd8</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//td[2]/div/div/div/a/span</value>
+      <webElementGuid>8baa5069-85c1-443f-8c94-5734d802b8ab</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = 'Michael1922 Teacher' or . = 'Michael1922 Teacher')]</value>
+      <webElementGuid>65b2fd97-cfce-4c8e-a24c-fb43eb32fe39</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

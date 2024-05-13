@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>AddministrationTools_Tab</name>
+   <tag></tag>
+   <elementGuidId>39efeef5-4d32-4802-a49c-12cc5f937e35</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//aside[@id='left-panel']/div/nav/ul/li[4]/a/em</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>em.fa-lg.fa-fw.fal.fa-tools</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>em</value>
+      <webElementGuid>55953ec0-4bc0-4444-be15-320bc7d78b06</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>fa-lg fa-fw fal fa-tools</value>
+      <webElementGuid>a9027f56-0ac7-447d-a8d8-d054ea11c0ea</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;left-panel&quot;)/div[@class=&quot;lms-left-panel-bg&quot;]/nav[@class=&quot;lms-left-nav lms-padding-bottom-10&quot;]/ul[@class=&quot;lms-user-profile lms-animate-ul-text lms-loading-ico&quot;]/li[@class=&quot;lms-menu-group-link lms-icon-visible&quot;]/a[@class=&quot;lms-cursor-pointer lms-nowrap&quot;]/em[@class=&quot;fa-lg fa-fw fal fa-tools&quot;]</value>
+      <webElementGuid>c6d613fb-362d-4988-8c0e-6a2db8725adb</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//aside[@id='left-panel']/div/nav/ul/li[4]/a/em</value>
+      <webElementGuid>8eeaf603-e7cc-465d-b572-f536c38cb5a9</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//li[4]/a/em</value>
+      <webElementGuid>71fc258e-f3ca-4688-96c1-5b0b63ae2902</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

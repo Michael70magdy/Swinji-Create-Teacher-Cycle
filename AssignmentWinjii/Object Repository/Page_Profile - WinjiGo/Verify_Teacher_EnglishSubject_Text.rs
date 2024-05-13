@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>Verify_Teacher_EnglishSubject_Text</name>
+   <tag></tag>
+   <elementGuidId>f5870be7-dded-4118-b9f1-27c57c2fc2dd</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>div:nth-of-type(4) > span > span</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='divProfileView']/div[2]/form/div[2]/div[4]/span/span</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>f4e7038d-5b42-4b42-a4e1-f88b44136e73</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-ng-if</name>
+      <type>Main</type>
+      <value>($index &lt; 2)</value>
+      <webElementGuid>aedfd15a-72b7-45cf-875a-28cba22dcfdd</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>English</value>
+      <webElementGuid>80d2dd90-d39a-4657-be41-d8cb82758219</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;divProfileView&quot;)/div[@class=&quot;col-xs-12 col-md-4 col-lg-4 text-center&quot;]/form[@class=&quot;lms-margin-bottom-50 lms-xs-only-margin-bottom-80 ng-pristine ng-valid&quot;]/div[@class=&quot;ng-binding lms-margin-top-30 text-center lms-profile-info lms-xs-margin-top-0-imp&quot;]/div[4]/span[1]/span[1]</value>
+      <webElementGuid>10e36f4f-a8c8-4955-8ef5-1201780478ec</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='divProfileView']/div[2]/form/div[2]/div[4]/span/span</value>
+      <webElementGuid>10b7c058-a968-42f2-8caf-f3b88d8d668d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Parent School'])[1]/following::span[2]</value>
+      <webElementGuid>fc5cced9-8fd9-47cc-b2e3-ff3992bd8a8a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='at'])[1]/following::span[3]</value>
+      <webElementGuid>4303c06a-8eeb-4756-91f1-fe274d451630</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='About Me'])[1]/preceding::span[1]</value>
+      <webElementGuid>60e4191c-d595-4985-bd09-ef4c2c5e47b2</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='E-Portfolio'])[1]/preceding::span[1]</value>
+      <webElementGuid>815c19e4-d9e0-436c-afc8-272fec997b68</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='English']/parent::*</value>
+      <webElementGuid>0452c272-8278-4231-a918-150db5c8cd15</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[4]/span/span</value>
+      <webElementGuid>40bdc1d0-d4aa-4ca7-aea2-7512b3250adb</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = 'English' or . = 'English')]</value>
+      <webElementGuid>7d6400e0-f8e0-42f3-8119-c557832cc3cd</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

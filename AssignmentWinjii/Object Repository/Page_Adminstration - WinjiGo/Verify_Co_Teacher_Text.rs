@@ -1,0 +1,133 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>Verify_Co_Teacher_Text</name>
+   <tag></tag>
+   <elementGuidId>e82fe193-5828-45dd-99c3-e97d75b7fe40</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>span.table-truncate-lg-cell.l.lms-truncate</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='office365Div']/div/div/div/div/div/div[3]/div[2]/div[3]/table/tbody/tr/td[4]/span/span</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>1f9a6de1-20c9-4efa-9557-f9f266dcc7b9</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>table-truncate-lg-cell l lms-truncate</value>
+      <webElementGuid>201008a3-8eb4-4645-880f-aaf8c7eae83d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>title</name>
+      <type>Main</type>
+      <value>Co-Teacher</value>
+      <webElementGuid>f1a92eec-dad2-4e93-bfdf-a30cfc3f5913</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>dir</name>
+      <type>Main</type>
+      <value>auto</value>
+      <webElementGuid>5678418b-f78b-45d5-8ed9-3575a8c49d7a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>
+                                            Co-Teacher
+
+                                        </value>
+      <webElementGuid>9f2492b4-5ccd-4b69-85e2-83e15a6a0edd</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;office365Div&quot;)/div[1]/div[1]/div[1]/div[@class=&quot;lms-section&quot;]/div[@class=&quot;lms-container lms-margin-bottom-20&quot;]/div[@class=&quot;row lms-margin-top-20&quot;]/div[@class=&quot;col-xs-12 lms-padding-end-0  lms-org-grid-cont col-md-9&quot;]/div[@class=&quot;lms-clear&quot;]/table[@class=&quot;lms-org-table  smart-form table table-bordered table-striped table-hover lms-reports-tbl lms-reports-manage-table lms-user-managment-tbl lms-table-fixed-layout lms-data-table lms-table-popup ng-table&quot;]/tbody[1]/tr[1]/td[@class=&quot;table-submain-xs table-hide-xs&quot;]/span[1]/span[@class=&quot;table-truncate-lg-cell l lms-truncate&quot;]</value>
+      <webElementGuid>62f8fed9-0b90-4e23-b818-2cf6f1af1286</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='office365Div']/div/div/div/div/div/div[3]/div[2]/div[3]/table/tbody/tr/td[4]/span/span</value>
+      <webElementGuid>fa959fa9-5713-481b-8316-6b3ab1a68315</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Reset password'])[1]/following::span[2]</value>
+      <webElementGuid>5df5250a-e3a2-4c23-8239-0668b91878cc</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Deactivate User'])[1]/following::span[2]</value>
+      <webElementGuid>b0c93f08-b96d-4d91-b8d6-a57a225ab18b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Parent School'])[3]/preceding::span[1]</value>
+      <webElementGuid>953a7537-5a31-4535-a1a6-6fda381c5354</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Edit User'])[2]/preceding::span[7]</value>
+      <webElementGuid>68080777-9cf8-4439-b5cf-275b7eddcbe2</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//td[4]/span/span</value>
+      <webElementGuid>ea8f036e-979b-44ca-b363-9b940db28faa</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[@title = 'Co-Teacher' and (text() = '
+                                            Co-Teacher
+
+                                        ' or . = '
+                                            Co-Teacher
+
+                                        ')]</value>
+      <webElementGuid>4f158e0f-6ea3-4fe1-abf0-845bbbe2c950</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

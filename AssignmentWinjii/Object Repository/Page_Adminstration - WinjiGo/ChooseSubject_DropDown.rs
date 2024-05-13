@@ -1,0 +1,146 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>ChooseSubject_DropDown</name>
+   <tag></tag>
+   <elementGuidId>80b0c731-6cde-445f-8fa8-46973302ed8f</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>li:nth-of-type(8) > a.item-unselected.truncate-full-width.display-block</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//custom-multiselect[@id='multiSubjects']/div/ul/li[8]/a</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>0b1a5ba6-b5ff-487d-918c-75d2a2160476</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>item-unselected truncate-full-width display-block</value>
+      <webElementGuid>df59abb4-1e54-401e-8f02-d1c38b451fca</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>dir</name>
+      <type>Main</type>
+      <value>auto</value>
+      <webElementGuid>83b82f99-326c-494b-8150-d5ee4c9a09bd</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>title</name>
+      <type>Main</type>
+      <value>English</value>
+      <webElementGuid>3a40f333-bec6-4081-b5d2-cacc463e9275</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>ng-click</name>
+      <type>Main</type>
+      <value>toggleItem(option); $event.stopPropagation()</value>
+      <webElementGuid>f00d667b-e322-4e30-b952-99c9cf3dc6e3</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>
+                English
+            </value>
+      <webElementGuid>f8b2e0fa-d431-4d76-b782-32f06ce5e2ce</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;multiSubjects&quot;)/div[@class=&quot;btn-group&quot;]/ul[@class=&quot;dropdown-menu dropdown-menu-form lms-edges-style-lmtd&quot;]/li[8]/a[@class=&quot;item-unselected truncate-full-width display-block&quot;]</value>
+      <webElementGuid>b5f770ed-f7e8-4c0b-aa0f-070419468d01</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//custom-multiselect[@id='multiSubjects']/div/ul/li[8]/a</value>
+      <webElementGuid>35a2dce6-d8be-405c-8f39-ddead7ea8e57</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:link</name>
+      <type>Main</type>
+      <value>//a[contains(text(),'English')]</value>
+      <webElementGuid>eb11c6bf-b4d5-4f61-9753-4ef1d66df9c0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Creative Arts'])[1]/following::a[1]</value>
+      <webElementGuid>ed02569b-d247-4442-8a91-dc482d0f3b47</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='gg'])[1]/preceding::a[1]</value>
+      <webElementGuid>d1503644-8262-40e0-bcdf-a1a5b272ce37</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='hh'])[1]/preceding::a[2]</value>
+      <webElementGuid>9ed6ea11-b4af-465b-bbe9-279307566cc4</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>(//a[contains(@href, '')])[372]</value>
+      <webElementGuid>47825a1c-8ee3-4226-97d7-86168d759b5b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//custom-multiselect/div/ul/li[8]/a</value>
+      <webElementGuid>defba77a-3643-410e-b125-1451e8972c49</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@title = 'English' and (text() = '
+                English
+            ' or . = '
+                English
+            ')]</value>
+      <webElementGuid>37df9a11-8f90-4245-85a0-01554d8b90a0</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
